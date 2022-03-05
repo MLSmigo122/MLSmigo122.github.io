@@ -4,7 +4,22 @@ body
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h1{
+.assignment
+{
+    display: flex;
+    padding: 10px;
+    background: lightgray;
+    margin: 10px;
+}
+
+.assignment img
+{
+    width: 200px;
+    padding: 10px;
+}
+
+h1
+{
     color: darkblue;
     text-align: center;
 }
